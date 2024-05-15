@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyBorderLayout
+comment1.params=
+comment1.target=MyBorderLayout()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=iconName\ text
+comment3.target=javax.swing.JButton\ createButton(java.lang.String,\ java.lang.String)
+comment4.params=color\ layout\ dimension
+comment4.target=javax.swing.JPanel\ createPanel(java.awt.Color,\ java.awt.LayoutManager,\ java.awt.Dimension)
+numComments=5

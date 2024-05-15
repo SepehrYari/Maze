@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DialogPanel
+comment1.params=
+comment1.target=DialogPanel()
+comment2.params=newText
+comment2.target=void\ setText(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getText()
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Key
+comment0.text=\r\n\ this\ class\ would\ represent\ a\ key\ objects\ in\ the\ game.\r\n\ it\ can\ be\ found\ inside\ the\ room\ class\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Key()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Key\r\n
+comment2.params=
+comment2.target=java.lang.String\ getKeyName()
+comment3.params=name
+comment3.target=void\ setKeyName(java.lang.String)
+comment4.params=
+comment4.target=int\ getKeyX()
+comment5.params=
+comment5.target=int\ getKeyY()
+comment6.params=newX\ newY
+comment6.target=void\ setCoords(int,\ int)
+numComments=7
