@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=x\ y
+comment1.target=Player(int,\ int)
+comment2.params=deltaX
+comment2.target=void\ moveX(int)
+comment3.params=deltaY
+comment3.target=void\ moveY(int)
+comment4.params=key
+comment4.target=void\ pickUpKey(Key)
+comment5.params=key
+comment5.target=void\ checkKeyPickup(Key)
+comment6.params=
+comment6.target=java.awt.Point\ getPosition()
+comment7.params=
+comment7.target=java.util.List\ getKeys()
+numComments=8
