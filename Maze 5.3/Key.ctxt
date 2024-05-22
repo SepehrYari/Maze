@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=
+comment1.target=Key()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Key\r\n
+comment2.params=
+comment2.target=java.lang.String\ getKeyName()
+comment3.params=name
+comment3.target=void\ setKeyName(java.lang.String)
+comment4.params=
+comment4.target=int\ getPositionX()
+comment5.params=
+comment5.target=int\ getPositionY()
+comment6.params=
+comment6.target=java.awt.Point\ getPosition()
+comment7.params=newPosition
+comment7.target=void\ setPosition(java.awt.Point)
+comment8.params=
+comment8.target=javax.swing.ImageIcon\ getKeyIcon()
+comment9.params=key
+comment9.target=void\ setKeyIcon(javax.swing.ImageIcon)
+numComments=10
