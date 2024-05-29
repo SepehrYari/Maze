@@ -1,0 +1,1 @@
+You stand alone in an unfamiliar room, what will you do? (you have a pink key)

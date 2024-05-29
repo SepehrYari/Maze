@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DialogPanel
+comment0.text=\r\n\ DialogPanel\ Class\ is\ designed\ to\ be\ the\ text\ area\ for\ all\ game\ diaolog\ to\ occur\ on\r\n\r\n\ @author\ Sepehr\r\n\ @version\ Spring\ 2024\r\n
+comment1.params=
+comment1.target=DialogPanel()
+comment1.text=\r\n\ Constructor\ with\ no\ perameters\r\n\r\n
+comment2.params=newText
+comment2.target=void\ setText(java.lang.String)
+comment2.text=\r\n\ Method\ to\ set\ text\ in\ JTextAreas\r\n\ \r\n\ @param\ String\ newText\ to\ set\ the\ dialog\ box's\ text\r\n
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment3.text=\r\n\ Method\ to\ get\ text\ in\ JTextAreas\r\n\ \r\n
+numComments=4

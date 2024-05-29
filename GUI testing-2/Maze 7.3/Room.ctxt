@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ Each\ Room\ wpuld\ represent\ a\ portion\ of\ a\ maze.\ it\ should\ containe\ properties\r\n\ such\ as\ whether\ there\ is\ a\ wall\ in\ any\ of\ the\ 4\ directions\ (north,\ east,\ south,\ west)\r\n\ whether\ there's\ a\ key\ in\ the\ room,\ and\ whether\ there's\ a\ door\ in\ the\ room\ or\ not\r\n\r\n\ (Temp\ Class\ -\ might\ scrap\ later)\r\n\r\n\ @author\ Sepehr\ \r\n\ @version\ Spring\ 2024\r\n
+comment1.params=
+comment1.target=Room()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Room\r\n
+comment2.params=Doorway\ keyItem
+comment2.target=void\ setDoorInRoom(Door,\ Key)
+comment3.params=
+comment3.target=Door\ getDoorInRoom()
+comment4.params=
+comment4.target=int\ getKeyX()
+comment5.params=
+comment5.target=int\ getKeyY()
+comment6.params=newX
+comment6.target=void\ setKeyX(int)
+comment7.params=newY
+comment7.target=void\ setKeyY(int)
+numComments=8
