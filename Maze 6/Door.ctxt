@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\r\n\ a\ Door\ object\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Door()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Door\r\n
+comment2.params=
+comment2.target=Key\ getKeyForDoor()
+comment3.params=k
+comment3.target=void\ setKeyForDoor(Key)
+comment4.params=k
+comment4.target=boolean\ OpenDoor(Key)
+comment5.params=lockable
+comment5.target=void\ setIsLocked(boolean)
+comment6.params=
+comment6.target=boolean\ getIsLocked()
+comment7.params=name
+comment7.target=void\ setDoorName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDoorName()
+numComments=9

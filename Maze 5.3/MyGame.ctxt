@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyGame
+comment0.text=\r\n\ this\ is\ the\ main\ body\ of\ the\ game\ where\ all\ of\ the\ logic\ and\ actions\ occur\r\n\r\n\ sets\ up\ the\ GUI\ and\ is\ also\ \r\n\ what\ we\ will\ be\ using\ to\ keep\ track\ of\ the\ player,\ keys,\ &\ rooms.\r\n\r\n\ @author\ Sepehr,\ Jacob,\ Diego\r\n\ @version\ Spring\ 2024\r\n
+comment1.params=
+comment1.target=MyGame()
+comment1.text=\r\n\ Constructor\ as\ a\ defult\r\n\ Sets\ up\ variables\ and\ passthroughs\ using\ insantce\ \r\n\ variables\ set\ up\ earlier.\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ Action\ Listener\ Method\ to\ move\ the\ player\ and\ update\ the\ display\r\n\ after\ every\ button\ press\r\n\ \r\n\ This\ is\ where\ the\ actions\ occure\ when\ a\ button\ is\ pressed.\ \r\n\ \r\n\ @param\ ActionEvent\ for\ when\ the\ button\ is\ pressed\r\n
+comment3.params=originalIcon\ width\ height
+comment3.target=javax.swing.ImageIcon\ resizeImage(javax.swing.ImageIcon,\ int,\ int)
+comment3.text=\r\n\ Future\ test\ method\ to\ resize\ image\ Icons.\r\n
+comment4.params=RoomDisplay
+comment4.target=void\ updateRoomDisplay(javax.swing.ImageIcon)
+comment4.text=\r\n\ Sets\ up\ x,\ y\ coordinates\ that\ displays\ an\ image\ based\ on\ the\ currnet\ \r\n\ Coordiantes\ of\ the\ Player.\r\n
+comment5.params=iconName\ text
+comment5.target=javax.swing.JButton\ createButton(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ Method\ to\ create\ the\ navigation\ Buttons\ settings.\ \r\n
+comment6.params=color\ layout\ dimension
+comment6.target=javax.swing.JPanel\ createPanel(java.awt.Color,\ java.awt.LayoutManager,\ java.awt.Dimension)
+comment6.text=\r\n\ Method\ to\ create\ J\ panels\ \r\n
+numComments=7
